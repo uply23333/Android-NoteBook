@@ -1,4 +1,4 @@
-package com.example.yangtianrui.notebook.fragment;
+package com.uply.notebook.fragment;
 
 import android.app.Fragment;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.example.yangtianrui.notebook.fragment;
+package com.uply.notebook.fragment;
 
 import android.app.Fragment;
 import android.app.LoaderManager;
@@ -19,9 +19,9 @@ import android.widget.CursorAdapter;
 import android.widget.ListView;
 
 import com.example.yangtianrui.notebook.R;
-import com.example.yangtianrui.notebook.activity.NoteDetailActivity;
-import com.example.yangtianrui.notebook.adapter.ShowNoteAdapter;
-import com.example.yangtianrui.notebook.db.NoteDAO;
+import com.uply.notebook.activity.NoteDetailActivity;
+import com.uply.notebook.adapter.ShowNoteAdapter;
+import com.uply.notebook.db.NoteDAO;
 
 /**
  * Created by yangtianrui on 16-5-21.

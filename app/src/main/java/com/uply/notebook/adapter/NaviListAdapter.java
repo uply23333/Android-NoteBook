@@ -1,4 +1,4 @@
-package com.example.yangtianrui.notebook.adapter;
+package com.uply.notebook.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;

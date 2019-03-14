@@ -1,4 +1,4 @@
-package com.example.yangtianrui.notebook.db;
+package com.uply.notebook.db;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;

@@ -1,4 +1,4 @@
-package com.example.yangtianrui.notebook.activity;
+package com.uply.notebook.activity;
 
 import android.app.Fragment;
 import android.content.Intent;
@@ -15,10 +15,10 @@ import android.widget.FrameLayout;
 import android.widget.ListView;
 
 import com.example.yangtianrui.notebook.R;
-import com.example.yangtianrui.notebook.adapter.NaviListAdapter;
-import com.example.yangtianrui.notebook.fragment.AllNotesFragment;
-import com.example.yangtianrui.notebook.fragment.SearchNoteFragment;
-import com.example.yangtianrui.notebook.fragment.SettingFragment;
+import com.uply.notebook.adapter.NaviListAdapter;
+import com.uply.notebook.fragment.AllNotesFragment;
+import com.uply.notebook.fragment.SearchNoteFragment;
+import com.uply.notebook.fragment.SettingFragment;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.example.yangtianrui.notebook.adapter;
+package com.uply.notebook.adapter;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -9,7 +9,7 @@ import android.widget.CursorAdapter;
 import android.widget.TextView;
 
 import com.example.yangtianrui.notebook.R;
-import com.example.yangtianrui.notebook.util.TextFormatUtil;
+import com.uply.notebook.util.TextFormatUtil;
 
 /**
  * Created by yangtianrui on 16-5-22.

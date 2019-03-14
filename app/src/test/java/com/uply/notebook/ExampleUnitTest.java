@@ -1,4 +1,4 @@
-package com.example.yangtianrui.notebook;
+package com.uply.notebook;
 
 import org.junit.Test;
 

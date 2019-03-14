@@ -1,10 +1,9 @@
-package com.example.yangtianrui.notebook.db;
+package com.uply.notebook.db;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.text.Selection;
 
 /**
  * Created by yangtianrui on 16-5-21.

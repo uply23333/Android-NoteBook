@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.yangtianrui.notebook">
+    package="com.uply.notebook">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".activity.MainActivity"
+            android:name="com.uply.notebook.activity.MainActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,11 +19,11 @@
         </activity>
 
         <activity
-            android:name=".activity.NoteDetailActivity"
+            android:name="com.uply.notebook.activity.NoteDetailActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
 
         <provider
-            android:name=".db.NoteProvider"
+            android:name="com.uply.notebook.db.NoteProvider"
             android:authorities="com.terry.NoteBook" />
     </application>
 
