@@ -14,7 +14,7 @@ import android.widget.AdapterView;
 import android.widget.FrameLayout;
 import android.widget.ListView;
 
-import com.example.yangtianrui.notebook.R;
+import com.uply.notebook.R;
 import com.uply.notebook.adapter.NaviListAdapter;
 import com.uply.notebook.fragment.AllNotesFragment;
 import com.uply.notebook.fragment.SearchNoteFragment;

@@ -12,7 +12,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.yangtianrui.notebook.R;
+import com.uply.notebook.R;
 import com.uply.notebook.bean.Note;
 import com.uply.notebook.db.NoteDAO;
 import com.uply.notebook.util.TextFormatUtil;

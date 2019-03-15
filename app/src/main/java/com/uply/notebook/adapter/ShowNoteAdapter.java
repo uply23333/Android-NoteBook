@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.CursorAdapter;
 import android.widget.TextView;
 
-import com.example.yangtianrui.notebook.R;
+import com.uply.notebook.R;
 import com.uply.notebook.util.TextFormatUtil;
 
 /**

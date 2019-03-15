@@ -18,7 +18,7 @@ import android.widget.AdapterView;
 import android.widget.CursorAdapter;
 import android.widget.ListView;
 
-import com.example.yangtianrui.notebook.R;
+import com.uply.notebook.R;
 import com.uply.notebook.activity.NoteDetailActivity;
 import com.uply.notebook.adapter.ShowNoteAdapter;
 import com.uply.notebook.db.NoteDAO;
